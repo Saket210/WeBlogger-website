@@ -1,0 +1,32 @@
+.admin-container{
+    display: flex;
+}
+
+.admin-header{
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding-left: 30px;
+    border: solid 3px black;
+    border-left: none;
+    justify-content: space-between;
+}
+
+.admin-header h3{
+    text-align: center;
+    padding-top: 5px;
+}
+
+.admin-view-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.admin-profile{
+    width: 50px;
+    height: 50px;
+    padding-top: 7px;
+    padding-right: 30px;
+    padding-bottom: 6px;
+}

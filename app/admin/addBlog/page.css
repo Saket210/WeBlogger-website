@@ -1,0 +1,45 @@
+.form-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-container p{
+    margin-top: 40px;
+}
+
+.input-fields{
+    width: 60%;
+    border: solid 1px black;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    box-shadow: -1px 1px 4px 0px;
+    padding: 3px;
+}
+.category-select{
+    border: solid 1px black;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    box-shadow: -1px 1px 4px 0px;
+    padding: 3px;
+    text-decoration: none;
+}
+.blog-add-btn{
+    border: solid 1px black;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    box-shadow: -1px 1px 4px 0px;
+    padding: 3px;
+    background:black;
+    color: white;
+    margin-top: 30px;
+}
